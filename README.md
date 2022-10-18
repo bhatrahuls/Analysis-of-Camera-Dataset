@@ -37,7 +37,8 @@ column to 0 and 1 respectively. We have also performed the correlation of each p
 
 Dataset
 
-	Our camera dataset shows us about the different features of the different camera models released from 1994 to 2007.We have taken this dataset from 
+	Our camera dataset shows us about the different features of the different camera models released from 1994 to 2007.We have taken this dataset 
+	from 
 	the source: www.kaggle.com repository. This dataset consists of 1038 observations and 13 features which are:
   
 •	The Categorical Variables are Model.
